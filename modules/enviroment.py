@@ -3,4 +3,4 @@ import os
      
 def run(**args):
     print("[*] In enviroment module.")
-    return str(os.enviroment)
+    return str(os.environ)
